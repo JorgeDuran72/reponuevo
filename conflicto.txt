@@ -1,2 +1,2 @@
-Nueva Línea desde la rama main.
-Añado Línea desde RamaConflicto.
+Línea desde la rama main.
+Nueva línea desde la rama main.
